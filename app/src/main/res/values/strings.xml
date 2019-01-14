@@ -1,0 +1,12 @@
+<resources>
+    <!-- Title for the application.-->
+    <string name="app_name">Classical Latin Pronunciation</string>
+    <!-- Text for introduction -->
+    <string name="introduction">Repetition helps with learning, but one of the challenges with learning classical Latin is hearing it spoken. It is difficult to understand word stress and the pronunciation of diphthongs, vowels, and consonants using written pronunciation guides alone since you\'re never really sure if what you\'re vocalizing is accurate.\n\nThe following pronunciations of selected classical Latin words are taken from <a href="http://wheelockslatin.com">Wheelock\'s Latin</a>, the classic introductory Latin course based on ancient authors. Happy learning!</string>
+    <!-- Vocabulary category names -->
+    <string name="category_numbers">Numbers</string>
+    <string name="category_body">Body</string>
+    <string name="category_people">People</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_verbs">Verbs</string>
+</resources>

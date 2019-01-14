@@ -1,0 +1,17 @@
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background colors for the vocabulary categories -->
+    <color name="category_numbers">#bcaaa4</color>
+    <color name="category_body">#a1887f</color>
+    <color name="category_people">#8d6e63</color>
+    <color name="category_nature">#795548</color>
+    <color name="category_verbs">#6d4c41</color>
+</resources>
